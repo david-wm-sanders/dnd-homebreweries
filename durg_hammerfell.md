@@ -58,7 +58,7 @@ ___
 >
 > ***Fast Movement.*** Speed is increased by 10ft (25ft>35ft) while not wearing heavy armor.
 >
-> ***Rage.*** Enter a rage as a bonus action. 3 per long rest. While raging:
+> ***Rage.*** Enter a rage as a bonus action. 4 per long rest. While raging:
 > - Advantage on Strength checks and Strength saving throws
 > - +2 rage damage when making a melee weapon attack using Strength
 > - Resistance to all damage except psychic (PotTW:Bear)
